@@ -1,5 +1,5 @@
 {
-    "name": "thomasjohnkane/slow-query-notifier",
+    "name": "chapdel/slow-query-notifier",
     "description": "Get notified if your Laravel app ever runs an objectively slow database call (configurable threshold)",
     "keywords": [
         "thomasjohnkane",
@@ -16,13 +16,13 @@
         }
     ],
     "require": {
-        "php": "^7.3",
-        "illuminate/support": "5.8.*|^6.0",
-        "laravel/tinker": "^2.1"
+        "php": "^8.1",
+        "illuminate/support": "8.0|^9.0",
+        "laravel/tinker": "^2.7"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0",
-        "phpunit/phpunit": "^8.0"
+        "orchestra/testbench": "^7.0",
+        "phpunit/phpunit": "^9.0"
     },
     "autoload": {
         "psr-4": {

@@ -9,7 +9,7 @@ Get notified if your app ever runs a really slow database query. We set a defaul
 You can install the package via composer:
 
 ```bash
-composer require thomasjohnkane/slow-query-notifier
+composer require chapdel/slow-query-notifier
 ```
 ## Usage
 ### Set an email address
