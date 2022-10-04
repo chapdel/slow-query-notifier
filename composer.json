@@ -3,9 +3,10 @@
     "description": "Get notified if your Laravel app ever runs an objectively slow database call (configurable threshold)",
     "keywords": [
         "thomasjohnkane",
+        "chapdel",
         "slow-query-notifier"
     ],
-    "homepage": "https://github.com/thomasjohnkane/slow-query-notifier",
+    "homepage": "https://github.com/chpadel/slow-query-notifier",
     "license": "MIT",
     "type": "library",
     "authors": [
